@@ -1,0 +1,48 @@
+/* public/css/styles.css */
+
+body {
+    background-color: #f4f4f4;
+}
+
+.custom-container {
+    background-color: #82c7b4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+h2 {
+    color: #514ae2;
+}
+
+.btn-create-task {
+    background-color: #0a1d20;
+    border-color: #17a2b8;
+}
+
+.btn-create-task:hover {
+    background-color: #138496;
+    border-color: #138496;
+}
+.card {
+    border: 2px solid #4a90e2;
+}
+
+.card-title {
+    color: #4a90e2;
+}
+
+.card-footer {
+    background-color: #f4f4f4;
+}
+
+.btn-action {
+    color: #4a90e2;
+    border-color: #4a90e2;
+}
+
+.btn-action:hover {
+    color: #fff;
+    background-color: #4a90e2;
+    border-color: #4a90e2;
+}
