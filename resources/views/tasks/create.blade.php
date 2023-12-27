@@ -6,6 +6,7 @@
         <form action="{{ url('taskstore') }}" method="POST">
             @csrf
             <div class="form-group">
+                <a href=""></a>
                 <label for="title" class="text-dark">Title</label>
                 <input type="text" class="form-control" id="title" name="title" pattern="[A-Za-z]+" title="Please enter alphabets only" required>
             </div>
